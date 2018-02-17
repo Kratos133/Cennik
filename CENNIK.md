@@ -3,7 +3,7 @@
 Strona internetowa – Mała:
 Cena 399 PLN
 
- - Oryginalny projekt graficzny 3 Podstrony (Sekcje)
+ - Oryginalny projekt graficzny 4 Podstrony (Sekcje)
  -  Responsywna (Dostosowana do urządzeń mobilnych)
  - Galeria
  - Odnośniki do social media
@@ -11,7 +11,7 @@ Cena 399 PLN
 Strona internetowa - Średnia:
 Cena 599 PLN
 
- - Oryginalny projekt graficzny 4 Podstrony (Sekcje)
+ - Oryginalny projekt graficzny 5 Podstrony (Sekcje)
  -  Responsywna (Dostosowana do urządzeń mobilnych) 
  - Galeria
  - Odnośniki do social media
@@ -20,7 +20,7 @@ Cena 599 PLN
 Strona internetowa – Duża:
 Cena 799 PLN
 
- - Oryginalny projekt graficzny 5 Podstron (Sekcji)
+ - Oryginalny projekt graficzny 6 Podstron (Sekcji)
  -  Responsywna (Dostosowana do urządzeń mobilnych) 
  - Galeria
  - Odnośniki do social media
@@ -32,7 +32,7 @@ Cena 799 PLN
 Strona internetowa – Mega:
 Cena 1499 PLN
 
- - Oryginalny projekt graficzny 6 Podstron (sekcji)
+ - Oryginalny projekt graficzny 7 Podstron (sekcji)
  - Responsywna (Dostosowana do urządzeń mobilnych)
  - Galeria
  - Odnośniki do social media
